@@ -1,6 +1,3 @@
-Here’s a **detailed GitHub repository description** for your **Anime 3D Calendar** project, including your name:  
-
----
 
 # **Anime 3D Calendar 🎌📅**  
 **Created by Arun Kant Singh**  
@@ -78,10 +75,8 @@ Simply open `index.html` in a browser, and enjoy the **3D anime-themed calendar*
 This is an open-source project! Feel free to **fork** and contribute by adding new features, optimizing performance, or fixing bugs.  
 
 🔗 **Author:** Arun Kant Singh  
-📧 Contact: [Your Email or Social Handle]  
+📧 Contact: arunkantsingh4@gmail.com  
 
 Give a ⭐ if you like this project! 😊🔥  
 
----
 
-This **detailed description** will make your **GitHub project look professional and engaging!** 🚀
